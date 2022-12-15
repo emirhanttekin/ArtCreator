@@ -16,7 +16,7 @@ Navigation Controller <br/>
 Fragment <br/>
 Alert Dialog <br/>
 
-API -> https://rapidapi.com/dezgo/api/dezgo/
+
 
 
 
